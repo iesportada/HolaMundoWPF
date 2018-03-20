@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Label Content="Hola Mundo" HorizontalAlignment="Left" Margin="57,49,0,0" VerticalAlignment="Top" Width="256"/>
+        <Label Content="Hola Mundo desde la gloria del ciclo DAM" HorizontalAlignment="Left" Margin="57,49,0,0" VerticalAlignment="Top" Width="256"/>
         <Label Content="Fantastico mundo de GIT" HorizontalAlignment="Left" Margin="57,136,0,0" VerticalAlignment="Top" Width="247"/>
 
     </Grid>
